@@ -18,6 +18,12 @@
  */
 
 function removeKFromList(/* l, k */) {
+  // const obj = {...l};
+  // const res = {};
+  // while (obj.next) {
+  //   if (obj.value === k) obj = obj.next;
+  // }
+  // return obj;
   throw new Error('Not implemented');
 }
 
